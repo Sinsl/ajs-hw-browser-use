@@ -1,0 +1,22 @@
+{
+  "name": "ajs-hw-browser-use",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sinsl/ajs-hw-browser-use.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sinsl/ajs-hw-browser-use/issues"
+  },
+  "homepage": "https://github.com/Sinsl/ajs-hw-browser-use#readme",
+  "dependencies": {
+    "@sinsl/ajs-hw-browser": "^1.0.0"
+  }
+}
